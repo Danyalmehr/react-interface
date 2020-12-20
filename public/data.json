@@ -1,0 +1,116 @@
+[
+  {
+    "currency": "Au Dollar",
+    "amount": "100",
+    "type": "Debit",
+    "aptDate": "2018-11-28 13:30"
+  },
+  {
+    "currency": "Dollar",
+    "amount": "200",
+    "type": "Debit",
+    "aptDate": "2018-11-28 10:15"
+  },
+  {
+    "currency": "Au Dollar",
+    "amount": "300",
+    "type": "Debit",
+    "aptDate": "2018-11-28 14:45"
+  },
+  {
+    "currency": "Dollar",
+    "amount": "400",
+    "type": "Debit",
+    "aptDate": "2018-11-28 16:00"
+  },
+  {
+    "currency": "Frank",
+    "amount": "100",
+    "type": "Debit",
+    "aptDate": "2018-11-28 9:00"
+  },
+  {
+    "currency": "Frank",
+    "amount": "200",
+    "type": "Debit",
+    "aptDate": "2018-11-29 13:15"
+  },
+  {
+    "currency": "Pound",
+    "amount": "300",
+    "type": "Debit",
+    "aptDate": "2018-11-29 10:00"
+  },
+  {
+    "currency": "Pound",
+    "amount": "400",
+    "type": "Debit",
+    "aptDate": "2018-11-29 11:45"
+  },
+  {
+    "currency": "Au Dollar",
+    "amount": "8000",
+    "type": "Debit",
+    "aptDate": "2018-11-29 14:30"
+  },
+  {
+    "currency": "Euro",
+    "amount": "720",
+    "type": "Debit",
+    "aptDate": "2018-11-29 16:00"
+  },
+  {
+    "currency": "Euro",
+    "amount": "720",
+    "type": "Credit",
+    "aptDate": "2018-11-29 8:30"
+  },
+  {
+    "currency": "Euro",
+    "amount": "580",
+    "type": "Credit",
+    "aptDate": "2018-11-30 10:15"
+  },
+  {
+    "currency": "Pound",
+    "amount": "900",
+    "type": "Credit",
+    "aptDate": "2018-11-30 11:30"
+  },
+  {
+    "currency": "Au Dollar",
+    "amount": "6000",
+    "type": "Credit",
+    "aptDate": "2018-11-30 14:30"
+  },
+  {
+    "currency": "Dollar",
+    "amount": "7000",
+    "type": "Credit",
+    "aptDate": "2018-11-30 15:45"
+  },
+  {
+    "currency": "Dollar",
+    "amount": "600",
+    "type": "Credit",
+    "aptDate": "2018-11-30 9:00"
+  },
+  {
+    "currency": "Pound",
+    "amount": "690",
+    "type": "Credit",
+    "aptDate": "2018-12-1 13:00"
+  },
+  {
+    "currency": "Au Dollar",
+    "amount": "9877",
+    "type": "Credit",
+    "aptDate": "2018-12-1 10:00"
+  },
+  {
+    "currency": "Au Dollar",
+    "amount": "2000",
+    "type": "Credit",
+    "aptDate": "2018-12-1 11:30"
+  }
+]
